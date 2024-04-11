@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python and MySQL projects.
 - 📫 You can reach me via linkedin: https://www.linkedin.com/in/prachi-kumari-pandey-b7223b231
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Programming is 10% writing code and 90% understanding why its not working.
+- ⚡ Fun fact: Python is not a snake 😎.
 
 <!---
 devloper-prachi/devloper-prachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
