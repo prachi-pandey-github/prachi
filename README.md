@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devloper-prachi
+- 👋 Hi, I’m @developer-prachi
 - 👀 I’m interested in Software Development and data Science.
 - 🌱 I’m currently learning Data structures and algorithms.
 - 💞️ I’m looking to collaborate on python and Data Science projects.
