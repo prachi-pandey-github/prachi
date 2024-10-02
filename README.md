@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @developer-prachi
-- 👀 I’m interested in Software Development and data Science.
-- 🌱 I’m currently learning Data structures and algorithms.
-- 💞️ I’m looking to collaborate on python and Data Science projects.
-- 📫 You can reach me via linkedin: https://www.linkedin.com/in/prachi-kumari-pandey-b7223b231
+- 👋 Hi, I’m prachi
+- 👀 I’m interested in Software Development and Machine Learning.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on Machine Learning projects.
+- 📫 You can reach me via linkedin: https://www.linkedin.com/in/prachi-pandey-b7223b231/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:As a developer, I speak multiple languages, but not all of them are human! My favorite dialect is Python.
+- ⚡ Fun fact: I can convert coffee into code.
 
 <!---
 devloper-prachi/devloper-prachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
